@@ -1,5 +1,5 @@
 ## Niiverse
-Some Miiverse Clone based off Indigo. Looks more like Miiverse, still with their assets and everything.
+Some Miiverse Clone based off [Indigo](https://github.com/PF2M/Indigo "Indigo"). Looks more like Miiverse, still with their assets and everything.
 
 ## How to Install???
 Check https://github.com/PF2M/Indigo
